@@ -1,0 +1,16 @@
+1. Jelaskan pemahaman Anda tentang pembelajaran mesin!
+Jawaban :
+Dari sumber-sumber yang saya pelajari, saya memiliki kesimpulan bahwa pembelajaran mesin adalah tingkat lanjut dari kecerdasan buatan, dimana mesin memiliki kemampuan untuk bisa belajar dengan sendirinya tanpa adanya campur tangan dari manusia. 
+Sebenarnya dalam kehidupan sehari-hari kita sudah sering menemui bahkan menggunakan pembelajaran mesin, apalagi untuk zaman sekarang. Contoh pembelajaran mesin yang paling sering kita temui sehari-hari adalah mesin pencari Google. Jika kita mengetik sesuatu di kolom search Google, maka Google akan memunculkan rekomendasi dari hal yang sedang kita cari. Jika Google kita sedang Log-in, maka Google juga akan menampilkan hasil pencarian yang pernah kita cari. Contoh lainnya adalah pengenal wajah seseorang yang dapat kita temui di smartphone dan CCTV.
+
+2. Jelaskan pemahaman Anda tentang perbedaan supervised, unsupervised, semi-supervised, dan reinforcement learning!
+Jawaban :
+	Supervised Learning adalah jenis learning atau pembelajaran yang memiliki variable input dan variable output dengan menggunakan suatu algoritma dalam rangka mempelajari fungsi pemetaan dari input ke output untuk mendapatkan output yang dinginkan.
+	Perbedaan mendasar supervised learning dengan unsupervised learning adalah unsupervised learning hanya mempunyai variable input (input data) tetapi tidak ada variabel output yang sesuai. Tujuannya adalah untuk mempelajari data lebih jauh lagi dan menyimpulkan fungsi yang mendeskripsikan atau menjelaskan data.
+	Semi-supervised adalah adalah kombinasi dari supervised learning dan unsupervised learning dimana hanya beberapa output data yang yang diberi label. Contoh sederhananya adalah seperti arsip foto di mana hanya beberapa gambar yang diberi label, (misalnya kucing, anjing, manusia) dan sebagian besar tidak diberi label.
+	Reinforcement learning adalah tipe learning yang bisa membuat software dan mesin bekerja secara otomatis dalam menentukan perilaku yang ideal terhadap sebuah konteks yang spesifik secara otomatis, dengan tujuan untuk memaksimalkan performanya.
+
+3. Berikan contoh studi kasus yang dapat diselesaikan dengan pembelajaran mesin, lalu metode pembelajaran mesin apa yang bisa Anda gunakan? Mengapa menggunakan metode tersebut?
+Jawaban :
+	Contoh studi kasusnya adalah Speech Emotion Recognition atau mengenali emosi seseorang melalui suara. Speech Emotion Recognition akan mencoba mengenali emosi seseorang melalui suara dengan memanfaatkan fakta bahwa suara sering kali mencerminkan emosi seseorang melalui nada dan tinggi nada. Ini juga merupakan fenomena yang digunakan hewan seperti anjing untuk memahami emosi manusia.
+	Metode pembelajaran mesin yang digunakan adalah supervised learning. Mengapa? Karena setiap keluaran atau output telah diprediksi atau diberi label seperi senang, marah, sedih dan seterusnya.
